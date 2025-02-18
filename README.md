@@ -16,8 +16,7 @@ Check out some of my featured projects:
 
 ## 📫 Connect With Me
 - **GitHub:** [iamdubazana](https://github.com/iamdubazana)
-- **LinkedIn:** [Your Profile](#)
-- **Twitter:** [Your Twitter](#)
-- **Email:** [Your Email](#)
+- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/sihle-dubazana/)
+- **Email:** [Your Email](iamdubazana@protonmail.com)
 
 💡 *Always learning, always building!*
