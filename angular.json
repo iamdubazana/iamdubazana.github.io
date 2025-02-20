@@ -13,6 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
+            "baseHref": "/",
             "outputPath": "dist/iamdubazana",
             "index": "src/index.html",
             "browser": "src/main.ts",
@@ -61,7 +62,7 @@
                   "maximumError": "5MB"
                 }
               ],
-              "outputHashing": "all"
+              "outputHashing": "none"
             },
             "development": {
               "optimization": false,
