@@ -11,8 +11,8 @@ This site is hosted on **GitHub Pages** and built using:
 
 ## 🚀 Explore My Work
 Check out some of my featured projects:
-- **[Project Alpha](#)** - A cloud automation project leveraging Terraform and AWS.
-- **[Project Beta](#)** - A full-stack web application built using Angular and Spring Boot.
+<!-- - **[Project Alpha](#)** - A cloud automation project leveraging Terraform and AWS.
+- **[Project Beta](#)** - A full-stack web application built using Angular and Spring Boot. -->
 
 ## 📫 Connect With Me
 - **GitHub:** [iamdubazana](https://github.com/iamdubazana)
